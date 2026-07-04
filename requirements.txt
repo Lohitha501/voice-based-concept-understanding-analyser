@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+librosa>=0.10.0
+openai-whisper
+sentence-transformers
+soundfile
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+torchvision
+fpdf2
