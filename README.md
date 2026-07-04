@@ -61,7 +61,7 @@ Ensure you have Python installed. Then follow these steps:
 ## Usage Workflow
 
 1. **Select or Define Concept**: Choose a target reference concept from the sidebar dropdown (e.g., *Machine Learning*, *Cloud Computing*) or write your own custom definition.
-2. **Upload Audio Recording**: Drop a `.wav` or `.mp3` recording explaining the chosen concept.
+2. **Upload Audio Recording**: Drop a `.wav`, `.mp3`, or `.mpeg` recording explaining the chosen concept.
 3. **Execution**: The VBCUA pipeline runs automatically:
    - Whisper transcribes the speech.
    - Sentence-Transformers evaluates semantic similarity.
